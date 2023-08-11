@@ -36,6 +36,6 @@ export default () => {
           </Suspense>
         </div>
       </StylesProvider>
-    </BrowserRouter>
+    </BrowserRouter> 
   );
 };
